@@ -1,3 +1,4 @@
+package numbers;
 
 public class swapNum {
     public static void main(String[]args) {
