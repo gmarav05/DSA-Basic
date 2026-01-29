@@ -1,3 +1,4 @@
+package numbers;
 public class armStrong {
     public static void main(String[] args) {
         int num = 153;
