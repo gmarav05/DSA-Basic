@@ -1,3 +1,4 @@
+package stringsBasic;
 public class countVowels {
     public static void main(String[] args) {
         String text= "Hello Java";

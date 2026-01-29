@@ -1,4 +1,4 @@
-package strings;
+package stringsBasic;
 
 public class countWords {
     public static void main(String[] args) {
